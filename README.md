@@ -57,7 +57,41 @@ Follow these steps to set up and run the **AI Voice Interview Coach** project on
    conda create -n tf310 python=3.10
 
 3. **Activate the environment**
-  ```bash
+   ```bash
     conda activate tf310
+
 ### 2️⃣ Project Setup
-Navigate to your project folder
+1. **Navigate to your project folder**
+   ```bash
+   cd path/to/your/project
+
+2. **Check your question.json file**
+  - Ensure it contains your interview questions.
+  - You can edit it to add or modify questions.
+
+3. **Set your OpenAI API key in the code**
+   ```bash
+   OPENAI_API_KEY = "your_openai_api_key_here"
+
+### 3️⃣ Run the Project
+Run the Streamlit app with:
+    
+    ```bash
+    streamlit run file_name.py
+
+✅ Now open the local URL provided by Streamlit in your browser and start practicing your interviews!
+
+---
+
+## 🤝 Contributing
+
+**Pull requests are welcome! If you have suggestions for new features, feel free to open an issue or submit a PR.**
+
+---
+
+## 🔗 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-181717?style=for-the-badge&logo=github)](https://github.com/Somnath-1202)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desaisomnath212@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Somnath-Desai)
+
