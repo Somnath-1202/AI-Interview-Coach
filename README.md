@@ -93,5 +93,5 @@ Run the Streamlit app with:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Somnath_1202-181717?style=for-the-badge&logo=github)](https://github.com/Somnath-1202)
 [![Email](https://img.shields.io/badge/Email-desaisomnath212-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desaisomnath212@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-somnathdesai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/somnath-d-199192335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-somnathdesai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnath-d-199192335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
