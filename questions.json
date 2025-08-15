@@ -1,0 +1,66 @@
+{
+  "HR Basics": [
+    "Tell me about yourself.",
+    "Describe a challenge you faced and how you handled it.",
+    "Why should we hire you?",
+    "What are your strengths and weaknesses?",
+    "Where do you see yourself in five years?",
+    "Tell me about a time you worked in a team.",
+    "How do you handle stress and pressure?",
+    "Why do you want to work for our company?"
+  ],
+  "Python": [
+    "Explain the difference between a list and a tuple in Python.",
+    "What is a decorator and where would you use it?",
+    "How does list comprehension work and why is it useful?",
+    "What are Python generators and how do they work?",
+    "Explain the Global Interpreter Lock (GIL) in Python.",
+    "How do you handle exceptions in Python?",
+    "What are Python virtual environments and why are they important?"
+  ],
+  "SQL": [
+    "Difference between INNER JOIN and LEFT JOIN.",
+    "How would you find duplicate rows in a table?",
+    "What is normalization and why is it important?",
+    "What is the difference between a primary key and a foreign key?",
+    "How would you write a query to get the second highest salary?",
+    "Explain ACID properties in databases.",
+    "What is indexing and why is it important?"
+  ],
+  "Data Structures": [
+    "What is the difference between an array and a linked list?",
+    "Explain how a hash table works.",
+    "What is Big-O notation? Give examples.",
+    "Explain the difference between stack and queue.",
+    "What is a binary search tree and how does it work?",
+    "What is the difference between BFS and DFS?",
+    "Explain the concept of dynamic programming."
+  ],
+  "Operating Systems": [
+    "What is a process vs. a thread?",
+    "Explain deadlock and how to prevent it.",
+    "What is context switching?",
+    "What is paging in operating systems?",
+    "Explain the concept of virtual memory.",
+    "What are system calls?",
+    "What is the difference between preemptive and non-preemptive scheduling?"
+  ],
+  "Computer Networks": [
+    "What is the difference between TCP and UDP?",
+    "Explain the OSI model layers.",
+    "What is DNS and how does it work?",
+    "What is an IP address and its types?",
+    "Explain the concept of subnetting.",
+    "What is HTTP vs HTTPS?",
+    "Explain what a firewall does."
+  ],
+  "Machine Learning": [
+    "What is supervised vs unsupervised learning?",
+    "Explain overfitting and underfitting.",
+    "What is a confusion matrix?",
+    "What is cross-validation and why is it important?",
+    "Explain gradient descent.",
+    "What are decision trees and how do they work?",
+    "What is the difference between classification and regression?"
+  ]
+}
